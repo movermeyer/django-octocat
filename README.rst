@@ -7,10 +7,10 @@ Django Octocat
 .. image:: https://coveralls.io/repos/Celc/django-octocat/badge.png?branch=master
         :target: https://coveralls.io/r/Celc/django-octocat?branch=master
 
-.. image:: https://pypip.in/v/django-octocat/badge.png
+.. image:: https://img.shields.io/pypi/v/django-octocat.svg
         :target: https://crate.io/packages/django-octocat
 
-.. image:: https://pypip.in/d/django-octocat/badge.png
+.. image:: https://img.shields.io/pypi/dm/django-octocat.svg
         :target: https://crate.io/packages/django-octocat
 
 A Django app for handling github users and repos.
